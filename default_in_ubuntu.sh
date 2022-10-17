@@ -6,6 +6,8 @@ default_pkgs=("terminator" \
  "lsb-release" \
  "locate" \
  "vim" \
+ "net-tools" \
+ "wireshark" \
  "ca-certificates" \
  "openssh-server")
  
